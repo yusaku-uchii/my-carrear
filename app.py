@@ -158,7 +158,7 @@ elif selected_section == "職務経歴":
 
     st.markdown("""
     <div class="timeline-item">
-        <h3> 某市役所職員 土木技師 | データコンサルティング会社にて商社のデータ基盤構築</h3>
+        <h3>土木技師 | 某市役所職員</h3>
         <p><strong>2020年4月 - 2022年9月</strong></p>
         <ul>
             <li>水道本管の工事の発注業務</li>
